@@ -40,6 +40,7 @@ In addition to moving with the arrow keys/hlkj keys, you can:
 If you type something not on this list, you do nothing for this turn, but the monsters take their turn
 
 Example Gamescreen:
+
 <img width="429" alt="image" src="https://github.com/user-attachments/assets/8ff59e59-fe98-409e-872e-b14cc5bffb36">
 
 # More details about the code:
