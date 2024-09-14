@@ -39,6 +39,31 @@ In addition to moving with the arrow keys/hlkj keys, you can:
 •	Cheat by typing c. This command sets the player's characteristics to make defeating monsters easy, and exists solely to let us test some aspects of your program without our having to slog through a regular game.
 If you type something not on this list, you do nothing for this turn, but the monsters take their turn
 
+Example Gamescreen:
+######################################################################
+######################             ##           ######################
+######################          B  ##           ##              ######
+######################             ##     G                  )  ######
+######################             ##           ##       S      ######
+#####             ####           ?D        #######    G         ######
+##### >           ####      B      ###### ########              ######
+#####        D    ####             ##         ########### ############
+#####              S           )   ##         ########### ############
+#####     G       ###################         ########### ############
+#####             ################### D@      ########### ############
+#####################################       S ########### ############
+#####################################         ########          ######
+######################################################   ?      ######
+######################################################          ######
+######################################################################
+######################################################################
+######################################################################
+Level: 3, Hit points: 10, Armor: 3, Strength: 2, Dexterity: 2
+
+Player slashes short sword at the Dragon and misses.
+the Dragon swings long sword at Player and misses.
+
+
 # More details about the code:
 
 Name of goblin movement function: moveGoblinRecursive
