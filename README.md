@@ -21,7 +21,7 @@ In addition to monsters, you'll find many different objects during your adventur
 -	Long swords
 -	Magic fangs of sleep (that put an opponent to sleep)
 -	Magic axes (that hit an opponent more often than regular weapons)
--	Scrolls (all scrolls are shown on screen as ?)
+-	Scrolls (all scrolls are shown on screen as ?):
   - A scroll of teleportation (when read, randomly moves the player)
   - A scroll of improve armor (when read, makes it harder for monsters to hit the player)
   - A scroll of raise strength (when read, makes a player's blows more effective)
