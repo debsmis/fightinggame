@@ -27,14 +27,14 @@ Each of these monsters has a different behavior and reacts differently to you. A
   - A scroll of enhance dexterity (when read, makes it more likely the player will hit an opponent)
 
 In addition to moving with the arrow keys/hlkj keys, you can:
-•	Attack a monster next to you by moving in its direction.
-•	Pick up an object by standing on it and typing g.
-•	Wield a weapon by typing w and then selecting a weapon from your inventory.
-•	Read a scroll by typing r and then selecting a scroll from your inventory.
-•	See an inventory of your items by typing i.
-•	When standing on a stairway, descend deeper into the temple by typing >.
-•	Quit the game by typing q.
-•	Cheat by typing c. This command sets the player's characteristics to make defeating monsters easy, and exists solely to let us test some aspects of your program without our having to slog through a regular game.
+- Attack a monster next to you by moving in its direction.
+- Pick up an object by standing on it and typing g.
+- Wield a weapon by typing w and then selecting a weapon from your inventory.
+- Read a scroll by typing r and then selecting a scroll from your inventory.
+- See an inventory of your items by typing i.
+- When standing on a stairway, descend deeper into the temple by typing >.
+- Quit the game by typing q.
+- Cheat by typing c. This command sets the player's characteristics to make defeating monsters easy, and exists solely to let us test some aspects of your program without our having to slog through a regular game.
 If you type something not on this list, you do nothing for this turn, but the monsters take their turn. Captions will be generated each turn for you to follow along.
 
 Example Gamescreen:
